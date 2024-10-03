@@ -34,5 +34,6 @@ public class Get04 extends PetStoreBaseUrl {
                 .then()
                 .statusCode(200)
                 .contentType(ContentType.JSON);
+        //github i denemek icin gonderiyorum
     }
 }
