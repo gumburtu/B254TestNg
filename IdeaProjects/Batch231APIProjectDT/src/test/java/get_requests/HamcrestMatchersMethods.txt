@@ -1,0 +1,15 @@
+Hamcrest Mathers Metodlari:
+
+1. equalTo(): Bir degerin diger bir degere esit olup olmadigani kontrol eder.
+2. equalToIgnoringCase(): iki dizenin büyük-küçük harf duyarsiz olarak esit olup olmadigini kontrol eder.
+3. not(): Bir degerin diger bir degere esit olmadigani kontrol eder.
+4. containsString(): Bir dizenin baska bir dizeyi içerip içermedigini kontrol eder.
+5. startsWith(): Bir dizenin belirtilen dizeyle baslayip baslamadigan kontrol eder.
+6. endsWith(): Bir dizenin belirtilen dizeyle bittigini kontrol eder.
+7. hasSize(): Bir koleksiyonun belirli bir boyuta sahip olup olmadigani kontrol eder.
+8. hasItem(): Bir koleksiyonda belirli bir ögenin bulunup bulunmadigani kontrol eder.
+9. hasItems(): Bir koleksiyonun belirtilen ögeleri içerip içermedigini kontrol eder.
+10. any0f(): Belirtilen sartlardan herhangi birinin dogru olup olmadigani kontrol eder.
+11. allof: Belirtilen tüm sartlarin dogru olup olmadigani kontrol eder.
+12. greaterThan, greaterThanOrEqualTo, LessThan(, LessThanOrEqualTo(: Sayisal degerleri kargilastirmak
+için kullanilan metotlar.
